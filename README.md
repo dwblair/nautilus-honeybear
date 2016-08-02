@@ -13,4 +13,4 @@ To try the notebook out 'live', click <a href="http://mybinder.org:/repo/dwblair
 <img src="pics/overlay_5_25.png">
 <img src="pics/overlay_10_12.png">
 
-(To rebuild the Binder instance, click [here](http://mybinder.org/status/dwblair/nautilus-honeybear)).
+(To rebuild the Binder instance, click [here](http://mybinder.org/status/dwblair/nautilus-honeybear).)
