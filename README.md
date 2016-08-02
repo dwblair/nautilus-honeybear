@@ -10,7 +10,5 @@ This repository contains a Jupyter <a href="index.ipynb">notebook</a> comparing 
 
 To try the notebook out 'live', click <a href="http://mybinder.org:/repo/dwblair/nautilus-honeybear">here</a>.
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/dwblair/nautilus-honeybear)
-
 <img src="pics/overlay_5_25.png">
 <img src="pics/overlay_10_12.png">
